@@ -15,5 +15,7 @@ class Person extends Model
         'date_of_birth' => 'date',
         'entered_office' => 'date',
         'term_end' => 'date',
+        'positive_date' => 'date',
+        'negative_date' => 'date',
     ];
 }
